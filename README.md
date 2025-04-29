@@ -1,6 +1,6 @@
 # Ex04 Places Around Me
 ## Date: 
-8/10/2024
+29/04/2025
 ## AIM
 To develop a website to display details about the places around my house.
 
@@ -37,7 +37,7 @@ map.html
 <font color="plum"><b>pallavaram</b></font>
 </h1>
 <h3 align="center">
-<font color="coral"><b>Joel Masilamani A (24900156)</b></font>
+<font color="coral"><b>Sharukesh S</b></font>
 </h3>
 <center>
 <img src="map.png" usemap="#MyCity" height="610" width="1450">
